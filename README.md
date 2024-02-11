@@ -19,5 +19,7 @@ CONTINUE FROM "FETCHING THE DATA"
 ## References
 
 Hashnode article: https://horosin.com/create-a-dashboard-to-track-your-twitterx-follower-stats-with-apis-and-github-actions?source=weekly
+
 Github repo: https://github.com/horosin/metrics-dashboard
+
 Results dashboard: https://horosin.github.io/metrics-dashboard/
