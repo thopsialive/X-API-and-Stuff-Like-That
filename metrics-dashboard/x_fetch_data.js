@@ -22,8 +22,8 @@ const token = {
   secret: process.env.TWITTER_ACCESS_SECRET // Read from environment variable
 };
 
-// API Endpoint
-const url = 'https://api.twitter.com/2/users/me?user.fields=public_metrics';
+// User ID API Endpoint
+const url = 'https://api.twitter.com/2/users/788898706586275840?user.fields=public_metrics';
 
 // Fetching Twitter Follower Count
 const fetchTwitterFollowerCount = async () => {
